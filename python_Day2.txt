@@ -1,0 +1,22 @@
+# age=int(input("Enter age="))
+
+# eligible= age>18
+# print("eligible to vote",eligible)
+
+# c=float(input("Enter No="))
+# print(c)
+# d=complex(input("Enter Name="))
+# print(d)
+
+# if(age>=18):
+#     print("eligible For Vote")
+# else:
+#     print("Not Eligible For Vote")
+# a=[1,2,3,4,5]
+# b=['a','b','c']
+# print(a)
+
+# my_list=[1,2,3,"apple",True,5.6,979,3+7j,"pineapple",False]
+# print(my_list)
+# print(len(my_list))
+# print(type(my_list))
